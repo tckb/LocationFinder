@@ -32,6 +32,8 @@ Optional args::
 
 Example
 ======
+
+
 ```
 $ java -jar GoEuroLocFinder-fatjar.jar Berlin
 Locations founds for : Berlin
